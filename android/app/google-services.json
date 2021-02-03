@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256613303983",
+    "project_id": "gauth-b5903",
+    "storage_bucket": "gauth-b5903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256613303983:android:9054850be13e3e06f2f65a",
+        "android_client_info": {
+          "package_name": "com.example.Gauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256613303983-22a15eloqicmqf9csrrrf0tm3opp8v75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdKvzT9MRmIMQOKDbWt1zEp3TZ9uooCfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256613303983-22a15eloqicmqf9csrrrf0tm3opp8v75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
